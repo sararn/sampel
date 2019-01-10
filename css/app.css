@@ -1,0 +1,13 @@
+.main{
+    margin-top: 500px;
+    margin-bottom: 500px;
+    text-align: center;
+    width: 40%;
+}
+/* .project{
+    opacity: 0;
+    transition: all 3s ease-out;
+}
+.project.fade-in{
+    opacity: 1;
+} */
